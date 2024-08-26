@@ -5,7 +5,6 @@ import FacebookIcon from "@mui/icons-material/Facebook";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import YouTubeIcon from "@mui/icons-material/YouTube";
 const Footer = () => {
-  const style = {};
   return (
     <>
       <Box
